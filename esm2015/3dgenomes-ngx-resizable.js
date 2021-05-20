@@ -1,0 +1,11 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/**
+ * Generated bundle index. Do not edit.
+ */
+export { NgxResizableService, ResizableComponent, NgxResizableModule } from './public-api';
+export { DragDirective as ɵb } from './lib/resizable/drag.directive';
+export { NgxResizeableWindowRef as ɵa } from './lib/window.service';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiM2RnZW5vbWVzLW5neC1yZXNpemFibGUuanMiLCJzb3VyY2VSb290Ijoibmc6Ly9AM2RnZW5vbWVzL25neC1yZXNpemFibGUvIiwic291cmNlcyI6WyIzZGdlbm9tZXMtbmd4LXJlc2l6YWJsZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7O0FBSUEsNEVBQWMsY0FBYyxDQUFDO0FBRTdCLE9BQU8sRUFBQyxhQUFhLElBQUksRUFBRSxFQUFDLE1BQU0sZ0NBQWdDLENBQUM7QUFDbkUsT0FBTyxFQUFDLHNCQUFzQixJQUFJLEVBQUUsRUFBQyxNQUFNLHNCQUFzQixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLyoqXG4gKiBHZW5lcmF0ZWQgYnVuZGxlIGluZGV4LiBEbyBub3QgZWRpdC5cbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL3B1YmxpYy1hcGknO1xuXG5leHBvcnQge0RyYWdEaXJlY3RpdmUgYXMgybVifSBmcm9tICcuL2xpYi9yZXNpemFibGUvZHJhZy5kaXJlY3RpdmUnO1xuZXhwb3J0IHtOZ3hSZXNpemVhYmxlV2luZG93UmVmIGFzIMm1YX0gZnJvbSAnLi9saWIvd2luZG93LnNlcnZpY2UnOyJdfQ==
